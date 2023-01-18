@@ -3,5 +3,5 @@ def count_sheep(n):
     i = 0
     while i != n:
         i = i + 1
-        string += f"{n} sheep..."
+        string += f"{i} sheep..."
     return string
